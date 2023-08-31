@@ -1,0 +1,13 @@
+.box {
+  height: 1920px;
+  width: 1080px;
+}
+
+.box .background {
+  background-color: #1e1e1e;
+  height: 1920px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1080px;
+}
